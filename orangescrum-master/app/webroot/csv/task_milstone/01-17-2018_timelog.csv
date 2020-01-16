@@ -1,0 +1,21 @@
+Date,Name,Task,Note,Start,End,Break,Billable,Hours
+"Jan 17, 2018","Sinuhe Garcia","Construcción Caso de uso 1108.CU.007","Componente para botón de descarga.","1:09 PM","5:52 PM","---","No","4 hrs 43 mins"
+"Jan 16, 2018","Oscar Mart&iacute;nez Rosales","Construcción Caso de uso 1108.CU.008","","12:47 PM","2:27 PM","---","No","1 hr 40 mins"
+"Jan 16, 2018","Sinuhe Garcia","Construcción Caso de uso 1108.CU.007","Termino de utileria y creación de componente visualforce","1:03 PM","8:39 PM","37 mins","No","6 hrs 59 mins"
+"Jan 16, 2018","Jocabed Rodea Carmona","Construcción Caso de uso 1108.CU.006","","11:10 AM","8:35 PM","1 hr 10 mins","No","8 hrs 15 mins"
+"Jan 15, 2018","Jocabed Rodea Carmona","Construcción Caso de uso 1108.CU.006","","10:30 AM","8:10 PM","56 mins","No","8 hrs 44 mins"
+"Jan 15, 2018","Sinuhe Garcia","Construcción Caso de uso 1108.CU.007","Algoritmo para descargar CSV Desarrollo de Utileria.","6:55 PM","8:07 PM","---","No","1 hr 12 mins"
+"Jan 16, 2018","Oscar Mart&iacute;nez Rosales","Construcción Caso de uso 1108.CU.008","se comienza con el tigre","7:29 PM","7:43 PM","---","No","14 mins"
+"Jan 11, 2018","Jocabed Rodea Carmona","Construcción Caso de uso 1108.CU.004","","10:30 AM","7:30 PM","1 hr ","Yes","8 hrs "
+"Jan 10, 2018","Jocabed Rodea Carmona","Construcción Caso de uso 1108.CU.004","","10:30 AM","8:45 PM","1 hr ","Yes","9 hrs 15 mins"
+"Jan 09, 2018","Jocabed Rodea Carmona","Construcción Caso de uso 1108.CU.004","","10:00 AM","8:30 PM","1 hr 30 mins","Yes","9 hrs "
+"Jan 10, 2018","Oscar Mart&iacute;nez Rosales","Construcción Caso de uso 1108.CU.003","se termina el match del FOB, se comienza con el batch","3:06 PM","3:48 PM","---","No","42 mins"
+"Jan 08, 2018","Jocabed Rodea Carmona","Construcción Caso de uso 1108.CU.004","","10:00 AM","7:30 PM","1 hr ","Yes","8 hrs 30 mins"
+"Jan 05, 2018","Jocabed Rodea Carmona","Construcción Caso de uso 1108.CU.004","","10:30 AM","8:00 PM","1 hr ","Yes","8 hrs 30 mins"
+"Jan 04, 2018","Jocabed Rodea Carmona","Construcción Caso de uso 1108.CU.004","","5:00 PM","6:30 PM","---","Yes","1 hr 30 mins"
+
+Fecha de exportación,"Jan 17, 2018"
+Total,14 records
+Total de horas facturables,44 hrs 45 mins 
+Total de horas no facturables,32 hrs 29 mins 
+Horas totales,77 hrs 14 mins 

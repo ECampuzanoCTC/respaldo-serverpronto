@@ -1,0 +1,32 @@
+Milestone,Title,Description,Due Date,Status,Type,Assigned To,Estimated Hour,Start Time,End Time,Break Time,Is Billable
+No Milestone,Preparación del ambiente,Validación y verificación del correcto funcionamiento de las modificaciones,10/20/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,7:00,9:00am,5:00pm,1:00,1
+No Milestone,Planeación y desarrollo,"Planeación, apoyo y organización del desarrollo",11/07/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,4:00,9:00am,1:00pm,0:00,1
+No Milestone,Comunicación cliente,Reunión Cemoc Monte Elbruz,11/09/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,1:00,9:00am,10:00am,0:00,1
+No Milestone,Pruebas y validación,Validación de los desarrollos y pruebas previo a la presentación,11/09/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,3:00,9:00am,12:00pm,0:00,1
+No Milestone,Pruebas y validación,Validación y analisis de los servicios web de Cementos Moctezuma,11/13/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,3:00,9:00am,12:00pm,0:00,1
+No Milestone,Analisis WSDL,Revisión de los WSDL para aclaración de dudas/ revisión de WSDL para Notas de crédito,11/15/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,4:00,9:00am,1:00pm,0:00,1
+No Milestone,Asesoría,Asesoría y aclaración de dudas,11/15/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,1:00,9:00am,10:00am,0:00,1
+No Milestone,Pruebas y validación,Revisión y prueba de WSDL,11/17/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,5:00,9:00am,2:00pm,0:00,1
+No Milestone,Asesoría,Revisiones apoyo y comunicación con cementos para los desarrollos existentes,11/21/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,3:00,9:00am,12:00pm,0:00,1
+No Milestone,Pagos,Inicio el desarrollo del módulo de pagos,11/22/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,5:00,9:00am,14:00pm,1:00,1
+No Milestone,Pagos,Continuación del desarrollo del módulo Pagos Concretos,11/23/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,4:00,9:00am,1:00pm,1:00,1
+No Milestone,Junta interna,Presentación de avance interno,11/24/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,1:00,9:00am,10:00am,0:00,1
+No Milestone,Pruebas y validación,"Reporte de errores y aclaración de dudas cemoc, pase de conocimiento a Lissete para creación de manuales funcionales",11/24/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,2:00,9:00am,11:00am,0:00,1
+No Milestone,Junta interna,Presentacion de avances,11/27/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,1:00,9:00am,10:00am,0:00,1
+No Milestone,Asesoría,Asesoría de clases Test para Concretos,11/28/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,1:00,9:00am,10:00am,0:00,1
+No Milestone,Planeación y desarrollo,Coordinacion de actividades y planeación del pase a producción,11/29/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,5:00,9:00am,2:00pm,0:00,1
+No Milestone,planeación y desarrollo,Presentación de la solución a los usuarios de Concretos,12/05/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,5:00,9:00am,2:00pm,0:00,1
+No Milestone,Pruebas y validación,Revisión del módulo de alta de clientes,12/07/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,4:00,9:00am,1:00pm,0:00,1
+No Milestone,planeación y desarrollo,Desarrollo del módulo de quejas,12/08/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,8:00,9:00am,6:00pm,1:00,1
+No Milestone,Quejas,Creación del módulo de quejas y validación de los servicios web enviados por parte de Cemoc,12/12/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,8:00,9:00am,6:00pm,1:00,1
+No Milestone,Quejas,"Desarrollo para la carga de documentos en el módulo de quejas y alta de clientes, validaciones y llamadas con el cliente para aclaración de dudas sobre el módulo pedidos y sobre los servicios liberados",12/13/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,8:00,9:00am,6:00pm,1:00,1
+No Milestone,Test quejas,Creación de clases Test para actualizar en producción los módulos desarrollados de quejas y alta de cliente.,12/14/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,8:00,9:00am,6:00pm,1:00,1
+No Milestone,Pase a producción,"Pase a producción del módulo de quejas, aprobaciones y alta de clientes",12/15/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,8:00,9:00am,6:00pm,1:00,1
+No Milestone,Analisis WSDL,Revisión del WSDL para el postDetallesPrograma,12/20/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,8:00,9:00am,6:00pm,1:00,1
+No Milestone,Comunicación cliente,Comunicación con el equipo de desarrollo de CEMOC para conocer el estatus de nuestras solicitudes,12/21/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,2:00,9:00am,11:00am,0:00,1
+No Milestone,Junta interna,Reunión interna para la revisisón del estatus actual de cemoc,12/21/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,2:00,9:00am,11:00am,0:00,1
+No Milestone,Asesoría,Comunicación con el equipo de desarrollo de CEMOC para conocer el estatus de nuestras solicitudes,12/22/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,4:00,9:00am,1:00pm,0:00,1
+No Milestone,asesoría,Comunicación con el equipo de desarrollo de CEMOC para conocer el estatus de nuestras solicitudes,12/26/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,2:00,9:00am,10:00am,0:00,1
+No Milestone,asesoría,Comunicación con el equipo de desarrollo de CEMOC para conocer el estatus de nuestras solicitudes,12/27/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,2:00,9:00am,11:00am,0:00,1
+No Milestone,Pruebas y validación,Revisión y coordinación del trabajo,12/28/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,8:00,9:00am,6:00pm,1:00,1
+No Milestone,Pruebas y validación,Home Office: Revisión y coordinación del trabajo,12/29/2017,RESOLVED,Development,sreyna@ctconsulting.com.mx,8:00,9:00am,6:00pm,1:00,1

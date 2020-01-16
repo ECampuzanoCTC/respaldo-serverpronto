@@ -1,0 +1,15 @@
+Date,Name,Task,Note,Start,End,Break,Billable,Hours
+"06 Feb, 2018","Marco Antonio Alavez Mejia","Kickoff interno - junta interna de transición - consultoria","","6:00 PM","8:00 PM","---","Yes","2 hrs "
+"07 Feb, 2018","Marco Antonio Alavez Mejia","Kickoff interno - junta interna de transición - PM","","9:00 AM","11:00 AM","---","Yes","2 hrs "
+"16 Feb, 2018","Marco Antonio Alavez Mejia","Generación Layout de carga de información","","3:00 PM","7:00 PM","---","Yes","4 hrs "
+"16 Feb, 2018","Marco Antonio Alavez Mejia","Integración Lightning for Gmail","","10:00 AM","2:00 PM","---","Yes","4 hrs "
+"12 Feb, 2018","Marco Antonio Alavez Mejia","Kickoff con Cliente","","3:00 PM","5:00 PM","---","Yes","2 hrs "
+"07 Feb, 2018","Marco Antonio Alavez Mejia","Elaboración del plan de trabajo (preventa, consultoria, desarrollo, PM)","","5:00 PM","9:00 PM","---","Yes","4 hrs "
+"14 Feb, 2018","Ediel","Kickoff interno - junta interna de transición - PM","","5:00 PM","7:00 PM","---","Yes","2 hrs "
+"14 Feb, 2018","Ediel","Kickoff con Cliente","","11:00 AM","12:00 PM","---","Yes","1 hr "
+
+Fecha de exportación,"05 Mar, 2018"
+Total,8 records
+Total de horas facturables,21 hrs  
+Total de horas no facturables,--- 
+Horas totales,21 hrs  

@@ -1,0 +1,9 @@
+Date,Name,Task,Note,Start,End,Break,Billable,Hours
+"01 Mar, 2018","Alan Hernandez","Prueba de visualización de Tareas","Se agrego un nuevo registro de tiempo","5:30 PM","6:00 PM","---","Yes","30 mins"
+"01 Mar, 2018","Alan Hernandez","Prueba de visualización de Tareas","Prueba con tareas y usuarios estandar","3:00 PM","5:00 PM","---","Yes","2 hrs "
+
+Fecha de exportación,"05 Mar, 2018"
+Total,2 records
+Total de horas facturables,2 hrs 30 mins 
+Total de horas no facturables,--- 
+Horas totales,2 hrs 30 mins 

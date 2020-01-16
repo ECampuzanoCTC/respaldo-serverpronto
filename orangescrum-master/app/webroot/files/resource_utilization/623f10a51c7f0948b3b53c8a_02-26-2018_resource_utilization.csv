@@ -1,0 +1,6 @@
+Date,Resource,Project,Task,Milestone,Status,Task Type,Hour(s) Spent,Estimated Hour(s),Billable
+"23 Feb, 2018","Alan Hernandez","Prueba Orange","tarea 2","Without Milestone","Closed","Development","0.08","0.5","Yes"
+"23 Feb, 2018","Alan Hernandez","Prueba Orange","Prueba 3","Without Milestone","Closed","Development","0.07","0.5","No"
+"23 Feb, 2018","Alan Hernandez","Prueba Orange","Tarea 5","Without Milestone","Closed","Development","0.22","4","Yes"
+"25 Feb, 2018","Alan Hernandez","Prueba Orange","tarea 8x","Without Milestone","Closed","Development","1.42","0","Yes"
+"26 Feb, 2018","Alan Hernandez","Prueba Orange","Prueba eliminacion de tarea por otro usuario","Without Milestone","Closed","Development","2.5","0.5","Yes"

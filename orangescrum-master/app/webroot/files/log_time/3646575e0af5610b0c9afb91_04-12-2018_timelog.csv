@@ -1,0 +1,20 @@
+Date,Name,Task,Note,Start,End,Break,Billable,Hours
+"10 Apr, 2018","Marisol Esquivel","Sesión de Análisis","Diagramas del flujo de tickets","5:05 PM","6:05 PM","---","Yes","1 hr "
+"10 Apr, 2018","Marisol Esquivel","Sesión de Análisis","Junta interna de análisis","10:30 AM","1:30 PM","---","Yes","3 hrs "
+"10 Apr, 2018","Marisol Esquivel","Sesión de Análisis","Junta interna de análisis","4:00 PM","5:00 PM","---","Yes","1 hr "
+"10 Apr, 2018","Marisol Esquivel","Propuesta CPQ","Revisión de propuesta Xerttica-Solbiz","10:00 AM","10:15 AM","---","Yes","15 mins"
+"10 Apr, 2018","Marisol Esquivel","Conferencia","Presentación y dudas de la propuesta. Solicitud de usuario en sandbox","9:00 AM","9:45 AM","---","Yes","45 mins"
+"09 Apr, 2018","Marisol Esquivel","Elaboración de propuesta comercial","Modificación de propuesta comercial","12:30 PM","1:00 PM","---","Yes","30 mins"
+"09 Apr, 2018","Marisol Esquivel","Elaboración de propuesta comercial","Análisis de cronograma para revisar posible reducción de horas","10:45 AM","11:15 AM","---","Yes","30 mins"
+"05 Apr, 2018","Marisol Esquivel","Elaboración de propuesta comercial","Presentación de propuesta a Xertica","10:05 AM","11:00 AM","---","Yes","55 mins"
+"05 Apr, 2018","Marisol Esquivel","Elaboración de propuesta comercial","Revisión de avance","9:15 AM","10:00 AM","---","Yes","45 mins"
+"04 Apr, 2018","Marisol Esquivel","Elaboración de propuesta comercial","Revisión de avance","3:30 PM","4:30 PM","---","Yes","1 hr "
+"04 Apr, 2018","Marisol Esquivel","Elaboración de propuesta comercial","Elaboración de propuesta comercial","11:00 AM","2:00 PM","---","No","3 hrs "
+"04 Apr, 2018","Marisol Esquivel","Elaboración de propuesta comercial","Elaboración de propuesta comercial","4:30 PM","6:00 PM","---","Yes","1 hr 30 mins"
+"03 Apr, 2018","Marisol Esquivel","Conferencia - Requerimientos","Se atendió la conferencia","5:00 PM","6:00 PM","---","Yes","1 hr "
+
+Fecha de exportación,"12 Apr, 2018"
+Total,13 records
+Total de horas facturables,12 hrs 10 mins 
+Total de horas no facturables,3 hrs  
+Horas totales,15 hrs 10 mins 

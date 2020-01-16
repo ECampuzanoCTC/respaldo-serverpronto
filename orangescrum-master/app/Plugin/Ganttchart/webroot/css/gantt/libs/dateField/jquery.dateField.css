@@ -1,0 +1,98 @@
+.calBox {
+  background-color: #fff;
+  padding: 2px;
+  -moz-border-radius: 4px;
+  text-align: center;
+  color: #222;
+  width:225px;
+  position:absolute;
+  border: 1px solid #617777;
+}
+
+.calElement, .calDayHeader  {
+  margin: 1px 3px;
+  display: inline-block;
+  overflow:hidden;
+  max-width: 24px;
+}
+
+.calDayHeader  {
+    background-color: #FFF
+}
+
+.calNavBar {
+  padding: 5px 5px 2px 5px;
+  margin-bottom: 5px;
+    border: 1px solid #aaaaaa;
+    background: #cccccc 50% 50% repeat-x;
+    color: #222222;
+}
+
+.calDay {
+}
+
+.calDay .calElement {
+  font-size: 11px;
+    border: 1px solid #d3d3d3;
+    background: #e6e6e6 50% 50% repeat-x;
+    text-align: right;
+    padding: 1px;
+}
+
+.calElement.prev,
+.calElement.next {
+  width: 16px;
+  height: 16px;
+  border: none;
+}
+.calElement.prev {
+  background: transparent url(images/prev.png) no-repeat 10px 0;
+  float:left;
+}
+
+.calElement.next {
+  background: transparent url(images/next.png) no-repeat;
+  float:right;
+}
+
+.calElement.next:hover, .calElement.prev:hover {
+  background-color: transparent;
+  border:none;
+  cursor: pointer;
+  opacity: 0.6
+}
+
+.calDay .calElement .dayNumber {
+  font-size: 20px;
+}
+
+.calDay.calFullMonth .dayNumber {
+  font-size: 12px;
+}
+.calDay .calOutOfScope{
+  color: #222;
+  opacity:0.3;
+}
+
+.calElement.selected {
+  background-color: #FFF;
+ 
+}
+
+.calElement:hover {
+  background-color: #CCCCCC;
+  border: 1px solid #CCCCCC;
+  cursor: pointer;
+}
+
+.calElement.today {
+  background-color: #fbf9ee;
+  border:1px solid #fcefa1;
+}
+
+.shortCuts span{
+  border: 1px solid #999999;
+  height:14px;
+  padding-left:2px;
+  padding-right:2px;
+}

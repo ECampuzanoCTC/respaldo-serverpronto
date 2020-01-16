@@ -1,0 +1,25 @@
+Date,Name,Task,Note,Start,End,Break,Billable,Hours
+"Mar 15, 2018","Ra&uacute;l Trejo","Contrato Mantenimiento","CORRECCION REGITRO DE TIEMPO","9:00 AM","6:00 PM","1 hr ","Yes","8 hrs "
+"Mar 15, 2018","Carlos &Aacute;lvarez","Pantalla intermedia OPAM","CORRECCION REGISTRO DE TIEMPO.","9:00 AM","6:00 PM","1 hr ","Yes","8 hrs "
+"Mar 14, 2018","Carlos &Aacute;lvarez","Pantalla intermedia OPAM","CORRECCION REGISTRO DE TIEMPO.","4:00 PM","6:00 PM","---","Yes","2 hrs "
+"Mar 14, 2018","Ra&uacute;l Trejo","Carga de comisión por el servicio","CORRECCION REGISTRO DE HORAS","9:00 AM","6:00 PM","1 hr ","Yes","8 hrs "
+"Mar 13, 2018","Ra&uacute;l Trejo","Carga de producto y tarifas","CORRECCION REGISTRO DE HORAS","9:00 AM","6:00 PM","1 hr ","Yes","8 hrs "
+"Mar 08, 2018","Mariana","Historias de Usuario - Personalización de tarjetas","CORRECION REGISTRO DE HORAS","1:00 PM","4:00 PM","---","Yes","3 hrs "
+"Mar 07, 2018","Mariana","Historias de Usuario - Pantalla intermedia OPAM","CORRECION REGISTRO DE HORAS","1:00 PM","4:00 PM","---","Yes","3 hrs "
+"Mar 07, 2018","Mariana","Historias de Usuario - Plantillas Mantenimiento","CORRECCION REGISTRO DE HORAS.","1:00 PM","4:00 PM","---","Yes","3 hrs "
+"Mar 08, 2018","Mariana","Personalización de tarjetas","REGISTRO DE HORAS DE ACUERDO AL ARCHIVO EN DRIVE.","8:55 AM","11:55 AM","---","Yes","3 hrs "
+"Mar 07, 2018","Mariana","Pantalla intermedia OPAM","REGISTRO DE HORAS DE ACUERDO AL ARCHIVO EN DRIVE.","8:55 AM","11:55 AM","---","Yes","3 hrs "
+"Mar 06, 2018","Mariana","Plantillas Mantenimiento","REGISTRO DE HORAS DE ACUERDO AL ARCHIVO EN DRIVE.","8:55 AM","11:55 AM","---","Yes","3 hrs "
+"Mar 16, 2018","Ra&uacute;l Trejo","Creación de campos, plantillas, tipo de registro, formato de página, mapeo de campos, expresiones, anexos","","10:00 AM","6:00 PM","---","Yes","8 hrs "
+"Mar 15, 2018","Diana Pilar","Creación de tareas y revisión de plan","","6:16 PM","7:02 PM","---","No","46 mins"
+"Mar 15, 2018","Mariana","Firma de Acta de aceptación","","2:35 PM","3:05 PM","---","Yes","30 mins"
+"Mar 09, 2018","Mariana","Elaboración de Acta de aceptación","","1:00 PM","2:00 PM","---","Yes","1 hr "
+"Mar 05, 2018","Mariana","Firma de Acta de aceptación","","9:00 AM","10:00 AM","---","Yes","1 hr "
+"Mar 12, 2018","Rodolfo Ricardo","Generación de Propuesta comercial","","12:00 PM","6:10 PM","1 hr ","Yes","5 hrs 10 mins"
+"Mar 13, 2018","Rodolfo Ricardo","Generación de Propuesta comercial","","9:30 AM","6:20 PM","1 hr ","Yes","7 hrs 50 mins"
+
+Fecha de exportación,"Mar 20, 2018"
+Total,18 records
+Total de horas facturables,75 hrs 30 mins 
+Total de horas no facturables,46 mins 
+Horas totales,76 hrs 16 mins 

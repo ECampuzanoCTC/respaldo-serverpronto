@@ -1,0 +1,20 @@
+.noprint {
+  display:none !important;
+}
+
+
+.mainColumn{
+  width:98% !important;
+}
+
+.gdfTable{
+   width: 0 !important;
+ }
+
+.splitBox2{
+  page-break-before: always !important;
+}
+
+.fixHead{
+  display: none !important;
+}

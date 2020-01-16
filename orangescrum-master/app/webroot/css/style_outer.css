@@ -1,0 +1,159 @@
+* {margin:0;padding:0;}
+html{overflow:-moz-scrollbars-vertical;overflow-y:scroll; min-height:100%; height:100%;width:100%;}
+body{margin:0px;padding:0px;
+    font:14px/18px Arial, Helvetica, sans-serif;
+    background:#fff;min-height:100%; height:100%;width:100%;}
+h4 {color: #343d45;font-size: 18px;
+    font-weight: normal;margin: 15px 0;line-height:30px;text-align: center;}
+h5 {color: #333;font-size: 14px;font-weight: bold; margin: 15px 0;line-height:30px;text-align: left;}
+.login_table{width:100%;}
+#container{width:100%;margin:0 auto;border:0;}
+.login_box div.login_box div.extras {border-top:1px dashed #ccc;
+    margin-top:15px;padding-top: 10px;}
+.login_box div.login_box input.auto {width:auto;}
+.login_box div.login_box label input {margin-bottom:0;}
+.login_box div.login_box input {font-size: 14px;padding:3px;width: 275px;}
+.login_box div.login_box input.button {font-size:14px;
+    margin: 10px 0 0;padding: 3px;width: auto;cursor:pointer;}
+.login_box div.login_box div.extras ul li {font-size: 12px;
+    list-style:none outside none;padding-bottom: 3px;}
+input {padding:3px;border:1px inset #ccc;}
+input:focus{outline:none;border:1px inset #3D7BAD;}
+.login_box {color: #000000;}
+.footer_login{position:relative;bottom:0px;width:100%;}
+ a{color:#006699;text-decoration:none;cursor:pointer;}
+ a:hover{text-decoration:underline}
+.fl{float:left;}
+.fr{float:right;}
+.cb {clear:both;}
+a img{border:none;}
+.login_demo_txt_l:focus {border: 1px solid #EC5B2B;}
+.demo_lunch_l.btn_try_top_land.try_btm{width: 110px;font-size:23px;margin-top:0px;}
+.demo_lunch_l.btn_try_top_land.try_btm:hover{
+    box-shadow: 0 0 8px #FF9600;-moz-box-shadow: 0 0 8px #FF9600;
+    -webkit-box-shadow: 0 0 8px #FF9600;}
+.clikable {cursor:pointer;}
+.clikable:hover {text-decoration:underline;color:#fff;}
+.demo_div p{margin-top:10px; line-height:21px; color:#FAE9E3; font-size:14px}
+.login_demo_txt_l {background:#FAE9E3;border: 1px solid #EC5B2B;
+    color:#333333;font-size: 13px;padding: 5px 10px;width:150px;margin-bottom:10px;}
+.demo_div{border:0px solid red;width:96%;margin-bottom:10px; margin-top:15px}
+.demo_usr_mgt{margin-top:15px;}
+.mgt10{margin-top:10px;}
+.ht14{height:14px}
+.top_m_cont_land{min-height:100%; height:100%;}
+.wrapper_new{margin:0px auto;min-height:100%;
+    height:100%;width:410px;display:block;}
+.logo_landing{text-align:center; padding-bottom:20px;margin-top:0px;}
+.login_box h2{color:#343d45;font-size:34px;
+    font-weight:normal;text-align:center;margin:15px 0px 15px 0px;height:35px;}
+.textbox{font-size:20px;color:#636363;border:1px solid #D4D4D4;
+	border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;
+	outline:none;background:#fff;width:295px;height:inherit;padding:8px 15px;
+	margin:15px 20px 3px 20px;}
+.textbox:focus{border:1px solid #609BC1;color:#333;}
+.top_inc_app_land_from{margin-left:0px;}
+.lbl_ie{display:none}
+.btn.btn_blue{background-image:-webkit-linear-gradient(top, #4f93e9, #4f93e9);
+    background-image: -ms-linear-gradient(top, #4f93e9, #4f93e9);
+    background-image: -o-linear-gradient(top, #4f93e9, #4f93e9);
+    background-image: linear-gradient(to bottom, #4f93e9, #4f93e9);
+    background-image: -moz-linear-gradient(top, #4f93e9, #4f93e9);
+    color:#fff;font-size:14px;padding:6px 27px;}
+.btn.btn_blue:hover{background:#2FB45B;}
+.btn {display: inline-block;padding: 6px 12px;
+    margin-bottom: 0;font-size: 14px;font-weight: normal;
+    line-height: 1.428571429;text-align: center;vertical-align: middle;
+    cursor: pointer;border: 1px solid transparent;
+    border-radius: 3px;white-space: nowrap;-webkit-user-select: none;
+    -moz-user-select: none;-ms-user-select: none;-o-user-select: none;
+    user-select: none;}
+.gogle_log_sup{width:148px; font-size:14px;color:#555555;cursor: pointer;
+    height: 29px;line-height: 29px;margin: 0 auto;}
+.top_menu_land{background: url("/img/images/top_menu_bg_land.jpg") repeat-x 0px 0px ;
+	width:100%;height:71px;}
+.top_bnr_mc_land{width:630px; margin-left:-2px; margin-top:86px;}
+#login_dialog h2{color:#343d45; font-size:28px; 
+	font-weight:normal;text-align:center; margin:12px 0px 15px 0px; height:35px;}
+#login_dialog h6{color:#343d45; font-size:15px; 
+	font-weight:normal;text-align:left;margin:10px 20px 0px 20px;line-height:20px;}
+.bg_logo_inner{position:absolute;
+	background:url(../../img/images/Back_logo.png) no-repeat 0px 0px;
+	height:320px;width:300px;left:-180px;top:-100px;z-index:-1;}
+#newpass_bar {margin-left:38px;}
+#newpass_text {margin-left:38px;}
+.lbl_ie{display:none}
+.or_cancel{font-size:14px; font-weight:normal;color:#000;}
+.success { color: #088408; font-family: Helvetica,sans-serif; font-size: 14px; margin-left: 20px; padding-top: 0;}
+.error {position: relative;top: 0;color: #FF0000; font-family: Helvetica,sans-serif; font-size: 14px; margin-left: 20px; padding-top: 0;}
+.gap10 {height:10px; }
+.gogle_log_sup_icn {
+    background: url("../img/images/g_login_icn.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    font-weight: bold;height: 21px;left: 12px;position: absolute;
+    top: 4px;width: 21px;}
+#container{width:100%;margin:0 auto;border:0;}
+div#LogoBox.white img {background:#FFFFFF;padding: 10px;}
+.admin_demo_img_l{
+    background: url("<?php echo HTTP_ROOT; ?>img/images/iconsprite.jpg") no-repeat scroll 0 0 transparent;
+    height: 22px;margin-right: 13px;width: 17px;text-indent:30px;line-height:23px;}
+.emp_demo_img_l{
+    background: url("<?php echo HTTP_ROOT; ?>img/images/iconsprite.jpg") no-repeat scroll -17px 0 transparent;
+    height: 22px;margin-right: 8px;width: 22px;text-indent:30px;line-height:23px;}
+.join_txt h2 {color: #495766;font-size: 34px;
+    font-weight: normal;min-height:35px;height:auto;margin: 15px 0;text-align: center}
+.login_box{box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);background:#FFFFFF;font-size:12px;margin:10px auto;padding:1px 20px 20px;text-align:left;margin-top:0px;width:360px}
+.login_box input[type="text"],.login_box input[type="password"],.os-start-loginbtn button.btn.btn_blue{width:100%;margin:20px 0 0;box-sizing:border-box;}
+.top_m_cont_land {height:auto;}
+.sign_label{color: #495766;font-size: 0px;}
+.suc_img{height:16px; width:16px; float:left; margin-top:5px;}
+.bg_logo_inner{	position:absolute;
+	background:url(../../img/images/Back_logo.png) no-repeat 0px 0px;
+	height:320px;width:300px;left:-180px;top:-100px;}
+.goog_log_or{margin-bottom:15px}
+input#name,input#last_name,input#pas_new,input#pas_retype{
+	font-size:25px;color:#636363;border:1px solid #D4D4D4;border-radius:5px;
+	-moz-border-radius:5px;-webkit-border-radius:5px;outline:none;
+	background:#fff;width:330px;height:inherit;padding:10px 15px;float:left;}
+.gap10{clear:both}
+.join_txt b{color:#636363;}
+.join_txt{font-size: 18px;}
+.lbl_ie{display:none}
+.btn.btn_blue:hover{background:#4f93e9;}
+#userLoginForm .textbox{width:100%;margin:10px 0;box-sizing: border-box;}
+.os-start-loginbtn{width:100%;margin:0px 0 20px;}
+.os-start-loginbtn button{width:100%;}
+.login-page-wrapper{margin-top:50px}
+
+@media only screen and (max-width:1100px){
+.logo_landing{margin-top:30px}
+.logo_landing a{display:block;margin-left:0}
+.logo_landing h4{margin:10px 0 0}
+.login_box h2{margin-bottom:0}
+#login_dialog .gap10{display:none}
+#userLoginForm .textbox::-webkit-inut-placeholder{font-size:16px}
+#userLoginForm .textbox:-moz-placeholder{font-size:16px}
+#userLoginForm .textbox::-moz-placeholder{font-size:16px}
+#userLoginForm .textbox::-ms-input-placeholder{font-size:16px}
+}
+
+
+@media only screen and (min-width:761px) and (max-width:1000px) {
+#wrapper{ padding-top:30%;}
+}
+@media only screen and (max-width:850px){
+.wrapper_new{padding-top:0}
+}
+@media only screen and (max-width:580px){
+.wrapper_new,.login_box {width:95%;margin:0 auto;display:block;box-sizing: border-box;}
+.bg_logo_inner{display:none}
+.login_table {margin:0 auto;width: 100%;}
+.wrapper_new .m-480,.wrapper_new .m-480 #container{display:block !important}
+.m-fl-none{float:none}
+.login_box img {max-width:100%}
+.logo_landing h4{font-size:14px}
+}
+@media only screen and (max-width:460px){
+.m-mlft-non{margin-left:0 !important}
+
+}
+
