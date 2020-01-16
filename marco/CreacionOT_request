@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:cre="http://xmlns.oracle.com/GimSF/CreacionOT/CreacionOT">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <cre:process>
+         <cre:Login>
+            <cre:userId>574011</cre:userId>
+            <cre:password>SalesF0rc31557$</cre:password>
+            <cre:ip>192.168.0.1</cre:ip>
+            <cre:idTransactionSF/>
+         </cre:Login>
+         <cre:idOrderSalesF/>
+         <cre:shift/>
+         <cre:type/>
+         <cre:subType/>
+         <cre:customerName/>
+         <cre:customerAccount/>
+         <cre:cluster/>
+         <cre:comments/>
+         <cre:mobilePhoneNumber/>
+         <cre:homePhoneNumber/>
+         <cre:customerAddress>
+            <cre:street/>
+            <cre:number/>
+            <cre:externalNumber/>
+            <cre:neighborhood/>
+            <cre:municipality/>
+            <cre:city/>
+            <cre:latitude/>
+            <cre:longitude/>
+            <cre:state/>
+            <cre:postalCode/>
+            <cre:referenceStreet/>
+         </cre:customerAddress>
+         <cre:package/>
+         <cre:addons>
+            <!--Zero or more repetitions:-->
+            <cre:addon>
+               <cre:servicio/>
+               <cre:descriccion/>
+               <cre:precio/>
+            </cre:addon>
+         </cre:addons>
+         <cre:serviciosExtras>
+            <!--Zero or more repetitions:-->
+            <cre:servicio>
+               <cre:servicio/>
+               <cre:descripcion>?</cre:descripcion>
+               <cre:precio/>
+            </cre:servicio>
+         </cre:serviciosExtras>
+         <cre:dateScheduled/>
+         <cre:salesChannel/>
+         <cre:clientType/>
+         <cre:idCompany/>
+      </cre:process>
+   </soapenv:Body>
+</soapenv:Envelope>
